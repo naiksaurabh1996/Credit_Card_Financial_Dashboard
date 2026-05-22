@@ -34,7 +34,10 @@ This Power BI dashboard analyzes credit card transactions, customer behavior, re
 - Data Cleaning
 
 ## Project Screenshots
-(Add dashboard screenshots here)
+!<img width="2075" height="1200" alt="Credit_Card_Report_page-0002" src="https://github.com/user-attachments/assets/50fdaf5a-87f9-4a66-8368-65c78b1614b5" />
+!<img width="2075" height="1200" alt="Credit_Card_Report_page-0003" src="https://github.com/user-attachments/assets/3bbd749a-6164-4885-b5e9-c83b9cb8c3c1" />
+
+
 
 ## Author
 Saurabh Arvind Naik
